@@ -1,7 +1,7 @@
 
 # Ecommerce
 
-Welcome to our Ecommerce website, your ultimate destination for all things shopping! Explore a vast array of products ranging from fashion to electronics, home essentials to gifts, all conveniently available at your fingertips. With a user-friendly interface and secure payment options, we strive to make your online shopping experience seamless and enjoyable. Discover the latest trends, unbeatable deals, and quality products delivered straight to your doorstep. Shop smart, shop effortlessly, only at Ecommerce website
+Welcome to my Ecommerce website, your ultimate destination for all things shopping! Explore a vast array of products ranging from fashion to electronics, home essentials to gifts, all conveniently available at your fingertips. With a user-friendly interface and secure payment options, we strive to make your online shopping experience seamless and enjoyable. Discover the latest trends, unbeatable deals, and quality products delivered straight to your doorstep. Shop smart, shop effortlessly, only at Ecommerce website
 
 
 ## Badge
